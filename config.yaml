@@ -1,0 +1,13 @@
+module: 'bridge_edge_assignment'
+
+service:
+  prod:
+    hosts: xxxx
+    port: xxxx
+    username: xxxx
+    password: xxxx
+  dev:
+    hosts: xxxx
+    port: xxxx
+    username: xxxx
+    password: xxxx
